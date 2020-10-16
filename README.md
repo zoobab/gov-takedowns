@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 #### What is this?
 From time to time, GitHub receives requests from governments to remove content that has been declared unlawful in their local jurisdiction. Although we may not always agree with those laws, we may need to block content if we receive a valid request from a government official so that our users in that jurisdiction may continue to have access to GitHub to collaborate and build software. 
 
